@@ -3,10 +3,10 @@
 An AI-powered ATS Resume Analyzer built using **OpenAI GPT**, **Streamlit**, and **Python**.
 
 🔗 **Live Demo:**  
-:contentReference[oaicite:0]{index=0}
+[https://ai-resume-analyzer-3efvasz4tmyrsakh4gjkwp.streamlit.app/](https://ai-resume-analyzer-3efvasz4tmyrsakh4gjkwp.streamlit.app/)
 
 🔗 **GitHub Repository:**  
-:contentReference[oaicite:1]{index=1}
+[https://github.com/Nousheen01/ai-resume-analyzer](https://github.com/Nousheen01/ai-resume-analyzer)
 
 ---
 
@@ -24,7 +24,7 @@ An AI-powered ATS Resume Analyzer built using **OpenAI GPT**, **Streamlit**, and
 
 ---
 
-# 🖥️ Preview
+# 🖥️ Application Preview
 
 The application provides:
 
